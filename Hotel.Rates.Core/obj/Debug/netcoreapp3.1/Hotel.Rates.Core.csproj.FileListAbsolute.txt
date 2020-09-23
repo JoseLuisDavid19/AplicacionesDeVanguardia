@@ -1,0 +1,9 @@
+D:\HARD DISK\Unitec\Desarrollo de App de Vang\Nueva carpeta (2)\hotel.rates.api-master\Hotel.Rates.Core\bin\Debug\netcoreapp3.1\Hotel.Rates.Core.deps.json
+D:\HARD DISK\Unitec\Desarrollo de App de Vang\Nueva carpeta (2)\hotel.rates.api-master\Hotel.Rates.Core\bin\Debug\netcoreapp3.1\Hotel.Rates.Core.dll
+D:\HARD DISK\Unitec\Desarrollo de App de Vang\Nueva carpeta (2)\hotel.rates.api-master\Hotel.Rates.Core\bin\Debug\netcoreapp3.1\Hotel.Rates.Core.pdb
+D:\HARD DISK\Unitec\Desarrollo de App de Vang\Nueva carpeta (2)\hotel.rates.api-master\Hotel.Rates.Core\obj\Debug\netcoreapp3.1\Hotel.Rates.Core.csprojAssemblyReference.cache
+D:\HARD DISK\Unitec\Desarrollo de App de Vang\Nueva carpeta (2)\hotel.rates.api-master\Hotel.Rates.Core\obj\Debug\netcoreapp3.1\Hotel.Rates.Core.AssemblyInfoInputs.cache
+D:\HARD DISK\Unitec\Desarrollo de App de Vang\Nueva carpeta (2)\hotel.rates.api-master\Hotel.Rates.Core\obj\Debug\netcoreapp3.1\Hotel.Rates.Core.AssemblyInfo.cs
+D:\HARD DISK\Unitec\Desarrollo de App de Vang\Nueva carpeta (2)\hotel.rates.api-master\Hotel.Rates.Core\obj\Debug\netcoreapp3.1\Hotel.Rates.Core.csproj.CoreCompileInputs.cache
+D:\HARD DISK\Unitec\Desarrollo de App de Vang\Nueva carpeta (2)\hotel.rates.api-master\Hotel.Rates.Core\obj\Debug\netcoreapp3.1\Hotel.Rates.Core.dll
+D:\HARD DISK\Unitec\Desarrollo de App de Vang\Nueva carpeta (2)\hotel.rates.api-master\Hotel.Rates.Core\obj\Debug\netcoreapp3.1\Hotel.Rates.Core.pdb
